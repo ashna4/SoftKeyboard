@@ -1,0 +1,13 @@
+.gradle
+/local.properties
+.DS_Store
+/build
+*.iml
+app/.externalNativeBuild/
+aosp-native/.externalNativeBuild/
+gifex/build
+.idea/
+*.apk
+*.lock
+app/*/release/*
+fastlane/report.xml

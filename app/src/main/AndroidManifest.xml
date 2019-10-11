@@ -14,7 +14,7 @@
         </service>
 
         <activity
-            android:name=".ImePreferences"
+            android:name=".Home"
             android:label="@string/settings_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
